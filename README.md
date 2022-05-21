@@ -5,6 +5,14 @@
 
 ## Comandos para levantar el servidor
     
+    ```Dentro de la carpeta django-swagger```
+    
+    - python -m venv venv
+    - pip install -r requirements.txt
+    - cd swagger
+
+    ```Dentron de la swagger```
+
     - python manage.py makemigrations
     - python manage.py makemigrations app
     - python manage.py migrate
