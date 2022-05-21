@@ -11,7 +11,7 @@
     - pip install -r requirements.txt
     - cd swagger
 
-    ```Dentron de la swagger```
+    ```Dentron de la carpeta swagger```
 
     - python manage.py makemigrations
     - python manage.py makemigrations app
